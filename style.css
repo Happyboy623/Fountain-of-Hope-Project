@@ -17892,14 +17892,6 @@ a.pswp__share--download:hover {
 .u-lightbox .u-gallery-item {
   cursor: pointer;
 }
-/*end-commonstyles photoswipe-default*/
-/*!
- * animate.css -http://daneden.me/animate
- * Version - 3.7.0
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2018 Daniel Eden
- */
 .u-body {
   --animation-fade_in-opacity: 0;
   --animation-fade_in_up-opacity: 0;
@@ -17963,10 +17955,7 @@ a.pswp__share--download:hover {
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-scale: 1;
   --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-opacity: 0;
-  
-  
-  
+  --animation-custom_in-opacity: 
 }
 @keyframes bounce {
   from,
@@ -18008,7 +17997,7 @@ a.pswp__share--download:hover {
 .flash {
   animation-name: flash;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 @keyframes pulse {
   from {
     transform: scale3d(1, 1, 1);
@@ -18142,7 +18131,7 @@ a.pswp__share--download:hover {
 .tada {
   animation-name: tada;
 }
-/* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
+
 @keyframes wobble {
   from {
     transform: translate3d(0, 0, 0);
@@ -37599,10 +37588,6 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-link.u-hover-custom-color-1:hover {
             color: #0046b8 !important;
         }
-
-        
-
-        
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
@@ -37649,9 +37634,6 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #003fa6 !important;
         }
-        
-
-        
         .u-text-custom-color-1,
         li.active > a.u-button-style.u-text-custom-color-1,
         li.active > a.u-button-style.u-text-custom-color-1[class*="u-border-"],
@@ -37720,107 +37702,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
         .u-body
         {
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
         --theme-sheet-width-sm: 540px;
         --theme-sheet-width-xs: 340px;
-        
-        
-        
-        
-        
-        
-        
         }
 
         /** common-rules **/
@@ -37990,8 +37876,6 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
-
         /** cms-rules **/
         /*begin-responsive rules*/
         .u-sm h1.u-title
@@ -38102,9 +37986,6 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
-
-
 /*end-variables sitestylecss*/
 .u-header .u-section-row-1 {
   background-image: none;
