@@ -68,7 +68,7 @@
 
 .u-section-1 .u-line-2 {
   width: 912px;
-  margin: 50px auto 44px;
+  margin: 50px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -77,11 +77,11 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 64px;
+    margin-top: 50px;
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 6px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -139,7 +139,7 @@
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 39px;
+    margin-top: 50px;
   }
 
   .u-section-1 .u-gallery-1 {

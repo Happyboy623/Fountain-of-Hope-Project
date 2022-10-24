@@ -68,7 +68,7 @@
 
 .u-section-1 .u-line-2 {
   width: 912px;
-  margin: 50px auto 25px;
+  margin: 50px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -77,16 +77,16 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 46px;
+    margin-top: 50px;
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 4px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-gallery-1 {
     height: 557px;
-    margin-top: 59px;
+    margin-top: 50px;
   }
 
   .u-section-1 .u-gallery-inner-1 {
@@ -140,7 +140,7 @@
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 37px;
+    margin-top: 50px;
   }
 
   .u-section-1 .u-gallery-1 {
