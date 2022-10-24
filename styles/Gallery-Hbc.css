@@ -1,3 +1,7 @@
+.u-section-1 {
+  background-image: linear-gradient(#0046b8, white);
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 675px;
   margin-bottom: 0;
@@ -112,7 +116,7 @@
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 33px;
+    margin-top: 20px;
   }
 
   .u-section-1 .u-gallery-1 {

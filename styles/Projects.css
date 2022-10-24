@@ -1,3 +1,7 @@
+.u-section-1 {
+  background-image: linear-gradient(#0046b8, white);
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 1223px;
 }
@@ -173,7 +177,7 @@
 
 .u-section-1 .u-line-2 {
   width: 912px;
-  margin: 50px auto 57px;
+  margin: 50px auto 60px;
 }
 
 @media (max-width: 1199px) {
