@@ -73,7 +73,7 @@
 }
 
 .u-section-1 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/WhatsAppImage2022-10-18at5.02.11PM1.jpeg");
+  background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/WhatsAppImage2022-10-18at5.02.12PM1.jpeg");
   transition-duration: 1.5s;
   background-position: 50% 50%;
 }
@@ -130,19 +130,19 @@
   font-size: 1.5rem;
 }
 
-.u-section-1 .u-list-item-4 {
+/* .u-section-1 .u-list-item-4 {
   background-position: 50% 50%;
-}
+} */
 
-.u-section-1 .u-image-4 {
+/* .u-section-1 .u-image-4 {
   background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/WhatsAppImage2022-10-18at5.02.12PM1.jpeg");
   transition-duration: 1.5s;
   background-position: 50% 50%;
-}
+} */
 
-.u-section-1 .u-container-layout-4 {
+/* .u-section-1 .u-container-layout-4 {
   padding: 30px;
-}
+} */
 
 .u-section-1 .u-text-8 {
   margin-left: 0;
