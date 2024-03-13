@@ -73,7 +73,7 @@
   }
   
   .u-section-1 .u-image-2 {
-    background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/Phuthego5.jpeg");
+    background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/Maree.JPG");
     transition-duration: 1.5s;
     background-position: 50% 50%;
   }
@@ -159,6 +159,12 @@
     background-image: none;
     font-weight: 400;
     font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-5 {
+    background-image: linear-gradient(0deg, rgba(119,170,217,0.7), rgba(119,170,217,0.7)), url("/images/");
+    transition-duration: 1.5s;
+    background-position: 50% 50%;
   }
   
   .u-section-1 .u-line-2 {
